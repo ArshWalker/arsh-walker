@@ -182,7 +182,7 @@ export default function HeroSection() {
               I am 3<sup>rd</sup> year CS student. A passionate Web Developer
               and Coding Enthusiast, learning through my experiences. I love to
               create new web applications, funny games and Real life projects
-              for the cummunity.
+              for the community.
             </PText>
             <Button btnText="Checkout my Works" btnLink="/projects" />
           </div>
