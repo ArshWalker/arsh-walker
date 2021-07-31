@@ -93,7 +93,7 @@ export default function AboutSection() {
             I am 3<sup>rd</sup> year CS student. A passionate Web Developer and
             Coding Enthusiast, learning through experiences. I love to create
             new web applications, funny games and Real life projects for the
-            cummunity.
+            community.
           </PText>
           <div className="aboutSection__buttons">
             <Button btnText="Works" btnLink="/projects" />
