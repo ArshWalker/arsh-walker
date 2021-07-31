@@ -58,7 +58,7 @@ const AboutSectionStyles = styled.div`
       width: 100%;
     }
     .aboutSection__right {
-      margin-top: 3rem;
+      margin-top: 6rem;
     }
     .section-title {
       text-align: center;
