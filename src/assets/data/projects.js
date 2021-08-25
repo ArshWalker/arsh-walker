@@ -5,6 +5,8 @@ import ExpenseImg from '../images/expensetracker.PNG';
 import CoinTrackerImg from '../images/cointracker.jpg';
 import RGBIMG from '../images/RGB.PNG';
 import NewsletterImg from '../images/Newsletter.PNG';
+import MovieWorldImg from '../images/MovieWorld.png';
+import AirbnbImg from '../images/Airbnb.PNG';
 
 const projects = [
   {
@@ -28,6 +30,24 @@ const projects = [
   },
   {
     id: 3,
+    name: 'Movie-World',
+    desc:
+      'This is a Movie App bulid using React.js, React hooks, States, axios, Material UI, API. Using this you can able to discover movies, series and able to search them and check its rating, cast, description and title.',
+    img: MovieWorldImg,
+    url: 'https://github.com/ArshWalker/movie_world',
+    link: 'https://walkermovieworld.netlify.app/',
+  },
+  {
+    id: 4,
+    name: 'Airbnb Clone',
+    desc:
+      'This is Frontend Build of Airbnb using Next.js, Tailwindcss, SSG, API. with the searching and booking rooms through the calender and also the map functionality.',
+    img: AirbnbImg,
+    url: 'https://github.com/ArshWalker/airbnb-clone',
+    link: 'https://airbnb-clone-arshwalker.vercel.app/',
+  },
+  {
+    id: 5,
     name: 'Crypto-Finance-Tracker',
     desc:
       'Using this app you can track any e coin there prices, market value etc. This is build using ReactJS and Next.js. This web app can give a great knoweledge about whats going in E-market.   ',
@@ -36,7 +56,7 @@ const projects = [
     link: 'http://github.com/ArshWalker',
   },
   {
-    id: 4,
+    id: 6,
     name: 'RGB-Color Game',
     desc:
       'Using this web app you can improve your RGB color codes skills. In this you can play a game by guessing the color is described in RGB values. RGB (#, #, #) stands for red, green and blue saturation from 0 to 255.',
@@ -45,7 +65,7 @@ const projects = [
     link: 'https://arshwalker.github.io/rgbcolor-game/',
   },
   {
-    id: 5,
+    id: 7,
     name: 'Quote-Generator',
     desc:
       'With the help of this web page you can able to generate random quotes from the famous authors. And also able to tweet them with your twitter account.',
@@ -54,7 +74,7 @@ const projects = [
     link: 'https://arshwalker.github.io/Quote-generator/',
   },
   {
-    id: 6,
+    id: 8,
     name: 'Newsletter-Signup',
     desc:
       'This is a single-page website, basically it allows people to sign up to my mailing list. All the data entered on the sign up page is added to the list and will be visible on my Mailchimp account as subscribers.',
