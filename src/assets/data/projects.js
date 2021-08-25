@@ -1,7 +1,7 @@
 // import { v4 as uuidv4 } from 'uuid';
 import ProjectImg from '../images/CovidTracker.PNG';
 import QuoteImg from '../images/Quote.PNG';
-import ExpenseImg from '../images/Expense.png';
+import ExpenseImg from '../images/expensetracker.PNG';
 import CoinTrackerImg from '../images/cointracker.jpg';
 import RGBIMG from '../images/RGB.PNG';
 import NewsletterImg from '../images/Newsletter.PNG';
