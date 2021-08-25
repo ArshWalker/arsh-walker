@@ -24,7 +24,7 @@ const projects = [
       'This Project(Frontend application) is build using React JS. In this you can store all your expenses spend throughout year. And also can add new expenses along with the date. You can filter them with years.',
     img: ExpenseImg,
     url: 'https://github.com/ArshWalker/Expense-Project',
-    link: '#',
+    link: 'https://arshexpensetracker.netlify.app/',
   },
   {
     id: 3,
