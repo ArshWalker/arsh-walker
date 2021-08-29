@@ -52,8 +52,8 @@ const projects = [
     desc:
       'Using this app you can track any e coin there prices, market value etc. This is build using ReactJS and Next.js. This web app can give a great knoweledge about whats going in E-market.   ',
     img: CoinTrackerImg,
-    url: 'http://github.com/ArshWalker',
-    link: 'http://github.com/ArshWalker',
+    url: 'https://github.com/ArshWalker/Crypto-finance-tracker',
+    link: 'https://crypto-finance-tracker.vercel.app/',
   },
   {
     id: 6,
