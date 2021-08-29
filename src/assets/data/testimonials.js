@@ -9,11 +9,11 @@ const testimonials = [
   },
   {
     id: 2,
-    name: 'Dhammapada',
-    title: 'Book',
-    org: 'Buddhism',
+    name: 'Pravek Sharma',
+    title: 'AI & ML Engineer',
+    org: 'Student',
     desc:
-      'Do not give your attention to what others do or fail to do; give it to what you do or fail to do.. Also, his work is really amazing. Do really high-quality work.',
+      'The amount of knowledge and imsight given into project creation and its execution is tremendously encouraging and appreciated! Great things await for you my friend!.',
   },
   {
     id: 3,
